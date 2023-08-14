@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋"</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -36,6 +36,6 @@
 <p align="left">
     <i>
         <font size=2>
-        This is a page I imitated from https://github.com/wervlad.</font>
+        This is a page I imitated from other pages.
     </i>
 </p>
