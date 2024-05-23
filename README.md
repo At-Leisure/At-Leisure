@@ -14,30 +14,39 @@
 <a href="https://docs.bugdesigner.cn" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>&emsp;
 <a href="https://komarev.com/ghpvc/?username=At-Leisure&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=At-Leisure&abbreviated=true"/></a>
 </p>
- 
-## 基本信息👤    
-全栈&Python爬虫&数据分析
 
-## 我的项目📚
+
+<h1 align="center">"Hi, guys! 👋"</h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm ZYF.<br>
+        Currently learning to walk in Machine/Deep Learning.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+</p>
+
+### Projects
 - <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/Serial_Tool-%230ec7b3?style=flat"/></a> desc
 - <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/DirectX_Render Neural Network-%230084fe?style=flat"/></a> desc
 
-## 技术栈🛠️
+### Languages
+[![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)](https://github.com)
+[![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)](https://github.com)
+[![C++](https://img.shields.io/badge/c++-gray?style=for-the-badge&logo=cplusplus)](https://github.com)
+[![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c)](https://github.com)
+[![Bash](https://img.shields.io/badge/bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com)
+[![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=mysql)](https://github.com)
 
-<p align="left"> 
-Lang&emsp;&emsp;&emsp;
-<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
-<a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
-<a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
-<a href="#"><img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" ></a>&emsp;
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" ></a>&emsp;
-</p>
+### ML/DL
+[![Pandas](https://img.shields.io/badge/pandas-gray?style=for-the-badge&logo=pandas)](https://github.com)
+[![NumPy](https://img.shields.io/badge/numpy-gray?style=for-the-badge&logo=numpy)](https://github.com)
+[![MLFlow](https://img.shields.io/badge/mlflow-gray?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-gray?style=for-the-badge&logo=scikit-learn)](https://github.com)
+[![PyTorch](https://img.shields.io/badge/PyTorch-gray?style=for-the-badge&logo=PyTorch)](https://github.com)
+[![SciPy](https://img.shields.io/badge/SciPy-gray?style=for-the-badge&logo=scipy)](https://github.com)
 
-OS&emsp;&emsp;&emsp;
-<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" ></a>&emsp;
-<a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" ></a>&emsp;
-<!--
-<p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
--->
-<!--img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=At-Leisure&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&custom_title=我的统计数据"/-->
-<!--img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=At-Leisure&include_all_commits=true&locale=cn&line_height=33&theme=dark&langs_count=20&layout=compact&custom_title=我的常用语言"/-->
+### OS
+[![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=Linux)](https://github.com)
+[![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows)](https://github.com)
