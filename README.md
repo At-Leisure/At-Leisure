@@ -32,21 +32,21 @@
 - <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/DirectX_Render Neural Network-%230084fe?style=flat"/></a> desc
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)](https://github.com)
-[![JavaScript](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)](https://github.com)
-[![C++](https://img.shields.io/badge/c++-gray?style=for-the-badge&logo=cplusplus)](https://github.com)
-[![C](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c)](https://github.com)
-[![Bash](https://img.shields.io/badge/bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com)
-[![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=mysql)](https://github.com)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com)
 
 ### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-gray?style=for-the-badge&logo=pandas)](https://github.com)
-[![NumPy](https://img.shields.io/badge/numpy-gray?style=for-the-badge&logo=numpy)](https://github.com)
-[![MLFlow](https://img.shields.io/badge/mlflow-gray?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-gray?style=for-the-badge&logo=scikit-learn)](https://github.com)
-[![PyTorch](https://img.shields.io/badge/PyTorch-gray?style=for-the-badge&logo=PyTorch)](https://github.com)
-[![SciPy](https://img.shields.io/badge/SciPy-gray?style=for-the-badge&logo=scipy)](https://github.com)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com)
+[![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com)
+[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=Linux)](https://github.com)
-[![Windows](https://img.shields.io/badge/Windows-gray?style=for-the-badge&logo=Windows)](https://github.com)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com)
