@@ -18,27 +18,23 @@
 全栈&Python爬虫&数据分析
 
 ## 我的项目📚
-- [iSchool: 一个基于Vue3、SC、SCA2023、Elastic Search、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台 ](https://github.com/AZCodingAccount/iSchool)
-- [iGomokuGame: 一个基于Vue3、SpringBoot3、WebSocket、DataView的在线五子棋游戏 ](https://github.com/AZCodingAccount/iGomokuGame)
-- [iTime: 一个基于electron、vue3、Arco Design、Pinia的桌面端效率软件 ](https://github.com/AZCodingAccount/iTime)
-- [github-readme-stats-plus: 一个基于React、Ant Design pro、zustand的可视化Github状态卡片生成器](https://github.com/AZCodingAccount/github-readme-stats-plus)
-
-
+- <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/Serial_Tool-%230ec7b3?style=flat"/></a> desc
+- <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/DirectX_Render Neural Network-%230084fe?style=flat"/></a> desc
 
 ## 技术栈🛠️
+
 <p align="left"> 
-      &emsp;&emsp;&emsp;
-      <!-- 前端 -->
-<!--       <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
-      <a href="#"><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
-      <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp; -->
-      <!-- 后端和数据库 -->
-      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
-      <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
-<!--       <a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp; -->
+Lang&emsp;&emsp;&emsp;
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+<a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
+<a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+<a href="#"><img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" ></a>&emsp;
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" ></a>&emsp;
 </p>
+
+OS&emsp;&emsp;&emsp;
+<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" ></a>&emsp;
+<a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" ></a>&emsp;
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
