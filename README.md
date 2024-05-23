@@ -16,7 +16,7 @@
 <a href="https://komarev.com/ghpvc/?username=At-Leisure&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=At-Leisure&abbreviated=true"/></a></p>
 </p-->
 
-<h1 align="center">"Hi, guys! 👋"</h1>
+<h1 align="center">"Hi, guys! 👋🏻"</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
